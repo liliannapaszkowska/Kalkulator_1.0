@@ -27,7 +27,7 @@ double Kalkulator::tim(double a, double b) {
 
 double Kalkulator::dev(double a, double b) {
     if (b == 0) {
-        cout << "❌ Błąd: Nie można dzielić przez zero!" << endl;
+        cout << "Błąd: Nie można dzielić przez zero!" << endl;
         mem_used = false;
         return 0;
     }
@@ -38,7 +38,7 @@ double Kalkulator::dev(double a, double b) {
 
 double Kalkulator::mod(double a, double b) {
     if (b == 0) {
-        cout << "❌ Błąd: Nie można dzielić przez zero!" << endl;
+        cout << "Błąd: Nie można dzielić przez zero!" << endl;
         mem_used = false;
         return 0;
     }
@@ -50,7 +50,7 @@ double Kalkulator::mod(double a, double b) {
 void Kalkulator::clear_mem() {
     mem = 0.0;
     mem_used = false;
-    cout << "✅ Pamięć została wyczyszczona." << endl;
+    cout << "Pamięć została wyczyszczona." << endl;
 }
 
 void Kalkulator::show_mem() {
