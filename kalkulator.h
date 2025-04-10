@@ -22,11 +22,8 @@ public:
     void add_to_mem(double x);
     void sub_from_mem(double x);
 
-    double get_mem();         // GET
-    void set_mem(double val); // SET
-
-    std::string to_base(int number, int base);
-    int from_base(std::string input, int base);
+    double get_mem();        
+    void set_mem(double val); 
 
     void menu();
 };
