@@ -1,0 +1,9 @@
+# ninja log v6
+5	496	7663698407726123	nienazwane_autogen/timestamp	14dca4c8f6929601
+5	496	7663698407726123	nienazwane_autogen/mocs_compilation.cpp	14dca4c8f6929601
+5	496	7663698407726123	C:/Users/Lilia/Documents/test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/nienazwane_autogen/timestamp	14dca4c8f6929601
+5	496	7663698407726123	C:/Users/Lilia/Documents/test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/nienazwane_autogen/mocs_compilation.cpp	14dca4c8f6929601
+23	1386	7663698426339280	CMakeFiles/nienazwane.dir/main.cpp.obj	8d7e4a29c0dd3c4a
+19	1400	7663698426289281	CMakeFiles/nienazwane.dir/nienazwane_autogen/mocs_compilation.cpp.obj	7c66fa6c6cd77b97
+27	1595	7663698426374350	CMakeFiles/nienazwane.dir/mainwindow.cpp.obj	9e3efb9ce02e030a
+1595	1788	7663698442048283	nienazwane.exe	319bbd3e532c8d97
