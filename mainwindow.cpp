@@ -99,7 +99,5 @@ void MainWindow::on_btnMMinus_clicked() {
 }
 
 void MainWindow::on_actionAbout_triggered() {
-    QMessageBox::information(this, "O autorze", "Autor: Twoje Imię
-Projekt Qt Kalkulator
-2025");
+    QMessageBox::information(this, "O autorze", "Autor: Twoje Imię\n Projekt Qt Kalkulator\n 2025");
 }
