@@ -14,7 +14,7 @@ Język programowania: C++
 GUI: Qt 6
 Kompilator: MinGW (64-bit)
 
-### ⚙Wymagania systemowe
+### Wymagania systemowe
 System: Windows 10/11 (64-bit)
 Do działania wymagane pliki biblioteczne Qt:
 Qt6Core.dll
